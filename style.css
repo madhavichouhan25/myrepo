@@ -1,0 +1,13 @@
+body 
+{
+    background: linear-gradient(to right,purple,red,green);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+} 
